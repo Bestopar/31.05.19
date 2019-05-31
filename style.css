@@ -1,0 +1,334 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+body {
+	margin: 0;
+	overflow-y: hidden;
+}
+.block {
+	width: 100vw;
+    height: 47.1vw;
+    background: #fff;
+}
+.search {
+	width: 100vw;
+	height: 5.8vw;
+	background: #ddd;
+}
+.span1 {
+    color: #fff;
+    font-size: 2.9vw;
+    position: absolute;
+    font-family: 'Open Sans Condensed', serif;
+    left: 14.4vw;
+    top: 0.5vw;
+}
+.input {
+    position: absolute;
+    left: 46.1vw;
+    width: 25vw;
+    top: 1.4vw;
+    height: 2.7vw; 
+	font-size: 1vw;
+	color: #757575;
+}
+.btns {
+    width: 9.4vw;
+    height: 3vw;
+    position: absolute;
+    right: 18.11vw;
+    top: 1.4vw;
+    background: #ad1f2c;
+
+}
+.btn {
+	width: 6.5vw;
+    height: 3vw;
+    background: #cb1a2b;
+    border: 0.1vw solid #00000000;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1vw;
+}
+.img1 {
+	background-image: url("img/st.png");
+	background-size: 2.9vw 3vw;
+	position: absolute;
+	left: 6.5vw;
+	width: 2.9vw;
+	height: 3vw;
+}
+.span2 {
+	font-size: 2.9vw;
+	font-family: 'Open Sans Condensed', serif;
+	position: absolute;
+	top: 9.5vw;
+    left: 26.5vw;
+
+}
+.l_block1 {
+	width: 17.2vw;
+    height: 3vw;
+    top: 15.5vw;
+    position: absolute;
+    left: 20.6vw;
+}
+.img2 {
+	background-image: url("img/lb1.png");
+	background-size: 2.9vw 3vw;
+	width: 2.9vw;
+	height: 3vw;
+}
+.span3 {
+	position: absolute;
+    left: 4vw;
+    width: 11vw;
+    top: 0.8vw;
+    color: black;
+    font-size: 1vw;
+}
+.l_block2 {
+	width: 17.2vw;
+    height: 3vw;
+    top: 19.5vw;
+    position: absolute;
+    left: 20.6vw;
+}
+.img3 {
+	background-image: url("img/lb2.png");
+	background-size: 2.9vw 3vw;
+	width: 2.9vw;
+	height: 3vw;
+}
+.span4 {
+	position: absolute;
+    left: 4vw;
+    width: 11vw;
+    top: 0.8vw;
+    color: black;
+    font-size: 1vw;
+}
+.span5 {
+	font-size: 2vw;
+    font-family: 'Open Sans Condensed', serif;
+    position: absolute;
+    top: 24.5vw;
+    left: 20.5vw;
+
+}
+.l_block3 {
+	width: 17.2vw;
+    height: 3vw;
+    top: 28.5vw;
+    position: absolute;
+    left: 20.6vw;
+}
+.img4 {
+	background-image: url("img/lb3.png");
+	background-size: 2.9vw 3vw;
+	width: 2.9vw;
+	height: 3vw;
+}
+.span7 {
+	position: absolute;
+    left: 4vw;
+    width: 11vw;
+    top: 0.8vw;
+    color: black;
+    font-size: 1vw;
+}
+.l_block4 {
+	width: 17.2vw;
+    height: 3vw;
+    top: 32.5vw;
+    position: absolute;
+    left: 20.6vw;
+}
+.img5 {
+	background-image: url("img/lb4.png");
+	background-size: 2.9vw 3vw;
+	width: 2.9vw;
+	height: 3vw;
+}
+.span8 {
+	position: absolute;
+    left: 4vw;
+    width: 11vw;
+    top: 0.8vw;
+    color: black;
+    font-size: 1vw;
+}
+.l_block5 {
+	width: 17.2vw;
+    height: 3vw;
+    top: 36.5vw;
+    position: absolute;
+    left: 20.6vw;
+}
+.img6 {
+	background-image: url("img/lb5.png");
+	background-size: 2.9vw 3vw;
+	width: 2.9vw;
+	height: 3vw;
+}
+.span9 {
+	position: absolute;
+    left: 4vw;
+    width: 12vw;
+    top: 0.8vw;
+    color: black;
+    font-size: 1vw;
+}
+.r_block {
+    width: 22vw;
+    height: 26.2vw;
+    position: absolute;
+    background: #eee;
+    top: 15.5vw;
+    left: 56.3vw;
+    background-image: url("img/ins.jpg");
+    -webkit-background-size: 22vw 26.2vw;
+    background-size: 22vw 26.2vw;
+}
+.img7 {
+	width: 22vw;
+    height: 15.4vw;
+    position: absolute;
+    top: 10.8vw;
+    background-image: url("img/in.png");
+    background-repeat: repeat;
+
+}
+.span10 {
+    position: absolute;
+    width: 14vw;
+    top: 13vw;
+    left: 4vw;
+    color: black;
+    z-index: 1;
+    font-size: 1.3vw;
+    text-align: center;
+}
+.btns2 {
+    width: 12.5vw;
+    height: 3vw;
+    position: absolute;
+    left: 3.3vw;
+    top: 7.3vw;
+    background: #0083ca;
+
+}
+.btn2 {
+	width: 12.5vw;
+    height: 3vw;
+    background: #0083ca;
+    border: 0.1vw solid #00000000;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1vw;
+}
+.img8 {
+    background-image: url(img/stw.png);
+    background-size: 2.9vw 3vw;
+    position: absolute;
+    left: 12.5vw;
+    width: 2.9vw;
+    height: 3vw;
+}
+.r_block p {
+    font-size: 0.999vw;
+    width: 14vw;
+    position: absolute;
+    top: 21vw;
+    left: 4.111vw;
+}
+.okno {
+	width: 100vw;
+	height: 100vw;
+	position: absolute;
+	top: 0vw;
+	background: #000000b5;
+	display: none;
+
+}
+.wsp {
+    width: 24vw;
+    height: 34.5vw;
+    position: absolute;
+    background: white;
+    left: 37.5vw;
+    top: 10.7vw;
+}
+.span11 {
+	position: absolute;
+    font-size: 1.1vw;
+    left: 6.5vw;
+    top: 1vw;
+}
+.wsp p {
+	width: 22vw;
+    text-align: center;
+    position: absolute;
+    top: 3vw;
+    left: 1vw;
+}
+.input1 {
+    width: 21vw;
+    height: 1.5vw;
+    position: absolute;
+    top: 14vw;
+    left: 1.5vw;
+}
+.input2 { 
+    width: 21vw;
+    height: 1.5vw;
+    position: absolute;
+    top: 18vw;
+    left: 1.5vw;
+}
+.span12 {
+	position: absolute;
+    top: 12.8vw;
+    left: 1.5vw;
+}
+.span13 {
+	position: absolute;
+    top: 16.8vw;
+    left: 1.5vw;
+}
+.btn3 {
+	background: #0083cb;
+	position: absolute;
+    width: 17.6vw;
+    left: 3.2vw;
+    top: 27vw;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    cursor: pointer;
+    height: 3vw;
+    border:0.1vw solid #00000000; 
+}
+.btn3:hover {
+	background: #004c87;
+}
+
+.wsp h1 {
+	font-size: 1vw;
+    position: absolute;
+    top: 30vw;
+    left: 2vw;
+}
+.span14 {
+	position: absolute;
+    top: 32vw;
+    left: 4vw;
+}
+.close {
+    background-image: url(img/kkk.png);
+    width: 0.7vw;
+    height: 0.7vw;
+    position: absolute;
+    left: 22.8vw;
+    background-size: 0.7vw 0.7vw;
+    top: 0.5vw;
+    cursor: pointer;
+}
